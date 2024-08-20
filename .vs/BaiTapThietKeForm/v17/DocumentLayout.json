@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\BT_ThietKeForm-master\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\Windown form bu\u1ED5i 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C63C592-AF72-48CB-9FD6-D0B8DFF3AD60}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|c:\\users\\asus\\downloads\\bt_thietkeform-master\\bt_thietkeform-master\\baitapthietkeform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C63C592-AF72-48CB-9FD6-D0B8DFF3AD60}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|solutionrelative:baitapthietkeform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8EDD34B-88F2-4CF4-953B-27B450578F92}|BTWindowsForms\\BTWindowsForms.csproj|c:\\users\\asus\\downloads\\bt_thietkeform-master\\windown form bu\u1ED5i 3\\btwindowsforms\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EDD34B-88F2-4CF4-953B-27B450578F92}|BTWindowsForms\\BTWindowsForms.csproj|solutionrelative:btwindowsforms\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C63C592-AF72-48CB-9FD6-D0B8DFF3AD60}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|c:\\users\\asus\\downloads\\bt_thietkeform-master\\bt_thietkeform-master\\baitapthietkeform\\bai 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C63C592-AF72-48CB-9FD6-D0B8DFF3AD60}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|solutionrelative:baitapthietkeform\\bai 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E8EDD34B-88F2-4CF4-953B-27B450578F92}|BTWindowsForms\\BTWindowsForms.csproj|C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\Windown form bu\u1ED5i 3\\btwindowsforms\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8EDD34B-88F2-4CF4-953B-27B450578F92}|BTWindowsForms\\BTWindowsForms.csproj|solutionrelative:btwindowsforms\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C63C592-AF72-48CB-9FD6-D0B8DFF3AD60}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\BT_ThietKeForm-master\\baitapthietkeform\\chinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C63C592-AF72-48CB-9FD6-D0B8DFF3AD60}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|solutionrelative:baitapthietkeform\\chinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E8EDD34B-88F2-4CF4-953B-27B450578F92}|BTWindowsForms\\BTWindowsForms.csproj|C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\Windown form bu\u1ED5i 3\\btwindowsforms\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EDD34B-88F2-4CF4-953B-27B450578F92}|BTWindowsForms\\BTWindowsForms.csproj|solutionrelative:btwindowsforms\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C63C592-AF72-48CB-9FD6-D0B8DFF3AD60}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\BT_ThietKeForm-master\\baitapthietkeform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C63C592-AF72-48CB-9FD6-D0B8DFF3AD60}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|solutionrelative:baitapthietkeform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E8EDD34B-88F2-4CF4-953B-27B450578F92}|BTWindowsForms\\BTWindowsForms.csproj|C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\Windown form bu\u1ED5i 3\\btwindowsforms\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8EDD34B-88F2-4CF4-953B-27B450578F92}|BTWindowsForms\\BTWindowsForms.csproj|solutionrelative:btwindowsforms\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C63C592-AF72-48CB-9FD6-D0B8DFF3AD60}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\BT_ThietKeForm-master\\baitapthietkeform\\chinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C63C592-AF72-48CB-9FD6-D0B8DFF3AD60}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|solutionrelative:baitapthietkeform\\chinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8EDD34B-88F2-4CF4-953B-27B450578F92}|BTWindowsForms\\BTWindowsForms.csproj|C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\Windown form bu\u1ED5i 3\\btwindowsforms\\tinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EDD34B-88F2-4CF4-953B-27B450578F92}|BTWindowsForms\\BTWindowsForms.csproj|solutionrelative:btwindowsforms\\tinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,64 +33,67 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bai 1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\BT_ThietKeForm-master\\BaiTapThietKeForm\\Bai 1.cs",
-              "RelativeDocumentMoniker": "BaiTapThietKeForm\\Bai 1.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\BT_ThietKeForm-master\\BaiTapThietKeForm\\Bai 1.cs [Design]",
-              "RelativeToolTip": "BaiTapThietKeForm\\Bai 1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T13:44:53.623Z",
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmBai4.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\BT_ThietKeForm-master\\BaiTapThietKeForm\\frmBai4.cs",
-              "RelativeDocumentMoniker": "BaiTapThietKeForm\\frmBai4.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\BT_ThietKeForm-master\\BaiTapThietKeForm\\frmBai4.cs",
-              "RelativeToolTip": "BaiTapThietKeForm\\frmBai4.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAlAAAA",
+              "Title": "frmBai3.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\Windown form bu\u1ED5i 3\\BTWindowsForms\\frmBai3.cs",
+              "RelativeDocumentMoniker": "BTWindowsForms\\frmBai3.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\Windown form bu\u1ED5i 3\\BTWindowsForms\\frmBai3.cs",
+              "RelativeToolTip": "BTWindowsForms\\frmBai3.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAASwB0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T13:44:38.408Z",
+              "WhenOpened": "2024-08-20T15:17:57.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmBai4.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\BT_ThietKeForm-master\\BaiTapThietKeForm\\frmBai4.cs",
-              "RelativeDocumentMoniker": "BaiTapThietKeForm\\frmBai4.cs",
-              "ToolTip": "D:\\WorkSpace\\MY_PROJECT\\2212412_NguyenThiLuat\\DESKTOP\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmBai4.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-08-20T13:44:38.767Z"
+              "DocumentIndex": 1,
+              "Title": "frmBai3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\Windown form bu\u1ED5i 3\\BTWindowsForms\\frmBai3.cs",
+              "RelativeDocumentMoniker": "BTWindowsForms\\frmBai3.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\Windown form bu\u1ED5i 3\\BTWindowsForms\\frmBai3.cs [Design]",
+              "RelativeToolTip": "BTWindowsForms\\frmBai3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:14:26.932Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Chinh.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\BT_ThietKeForm-master\\BaiTapThietKeForm\\Chinh.cs",
-              "RelativeDocumentMoniker": "BaiTapThietKeForm\\Chinh.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\BT_ThietKeForm-master\\BaiTapThietKeForm\\Chinh.cs",
-              "RelativeToolTip": "BaiTapThietKeForm\\Chinh.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAIBAwC8AAAADAAAA",
+              "Title": "TinhToan.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\Windown form bu\u1ED5i 3\\BTWindowsForms\\TinhToan.cs",
+              "RelativeDocumentMoniker": "BTWindowsForms\\TinhToan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\Windown form bu\u1ED5i 3\\BTWindowsForms\\TinhToan.cs",
+              "RelativeToolTip": "BTWindowsForms\\TinhToan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T13:44:38.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T15:08:52.549Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Chinh.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\BT_ThietKeForm-master\\BaiTapThietKeForm\\Chinh.cs",
-              "RelativeDocumentMoniker": "BaiTapThietKeForm\\Chinh.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\BT_ThietKeForm-master\\BaiTapThietKeForm\\Chinh.cs [Design]",
-              "RelativeToolTip": "BaiTapThietKeForm\\Chinh.cs [Design]",
+              "Title": "FormChinh.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\Windown form bu\u1ED5i 3\\BTWindowsForms\\FormChinh.cs",
+              "RelativeDocumentMoniker": "BTWindowsForms\\FormChinh.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\Windown form bu\u1ED5i 3\\BTWindowsForms\\FormChinh.cs",
+              "RelativeToolTip": "BTWindowsForms\\FormChinh.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAASwCEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T13:44:38.774Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-08-20T14:58:23.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormChinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\Windown form bu\u1ED5i 3\\BTWindowsForms\\FormChinh.cs",
+              "RelativeDocumentMoniker": "BTWindowsForms\\FormChinh.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\BT_ThietKeForm-master\\Windown form bu\u1ED5i 3\\BTWindowsForms\\FormChinh.cs [Design]",
+              "RelativeToolTip": "BTWindowsForms\\FormChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:58:22.017Z"
             }
           ]
         }
